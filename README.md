@@ -51,7 +51,7 @@ git pull <D:\GitHub\Sovol-ZERO-Toolhead-on-the-SV08\Script>
 ls
 ```
 
-![File List](images/Screen_Image.png)
+![File List](images/Screen_Image.PNG)
 
 5) If it appears in white run this command
 
