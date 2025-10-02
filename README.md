@@ -31,7 +31,7 @@ ___
 
 ```bash
 cd
-git pull <D:\GitHub\Sovol-ZERO-Toolhead-on-the-SV08\Script>
+git pull <https://github.com/Blenky56/Flashing-Klipper-to-Sovol-ZERO-Toolhead-on-the-SV08/blob/main/Script/update_klipper_mcus_sv08_ZERO_TH.sh>
 ```
 2) You will need to edit this file to change the HOST MCU serial number and toolhead UUID to match yours. 
     * Use WinSCP or a ftp file editor of your choice.
