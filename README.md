@@ -51,7 +51,7 @@ git pull <D:\GitHub\Sovol-ZERO-Toolhead-on-the-SV08\Script>
 ls
 ```
 
-![File List](images/Screen_Image.png)
+![File List](images/chmod.PNG)
 
 5) If it appears in white run this command
 
@@ -74,9 +74,9 @@ cd
 ./update_klipper_mcus_sv08_ZERO_TH.sh
 ```
 
-7) You will see this menu come up.  Very similar to Rappetor�s original SV08 MCU Updater.
+7) You will see this menu come up.  Very similar to Rappetor's original SV08 MCU Updater.
 
-![Menu](images/Menu.png)
+![Menu](images/menu.png)
 
 8) Select 1 to update Klipper first then follow in the numerical order.
     * Klipper will stop and then update.
@@ -93,11 +93,11 @@ ___
 
     *If you have a different main board than the OEM SOVOL SV08 board then follow the settings for your board!!*
 
-![HOST](images/Host_Klipper_Settings.png)
+![HOST](images/host.png)
 
 10) The Toolhead MCU Klipper configuration should look like this.  
 
-![Toolhead](images/Toolhead_Klipper_Settings.png)
+![Toolhead](images/toolhead.png)
 
 11)  Once both MCUs are flashed you can select option 4 and exit.  Klipper will restart and you can confirm that the MCUs are running the latest Klipper.
 
