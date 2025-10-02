@@ -51,7 +51,7 @@ git pull <D:\GitHub\Sovol-ZERO-Toolhead-on-the-SV08\Script>
 ls
 ```
 
-![File List](./images/chmod.PNG)
+![File List]([./](https://github.com/Blenky56/Flashing-Klipper-to-Sovol-ZERO-Toolhead-on-the-SV08/tree/main)images/chmod.PNG)
 
 5) If it appears in white run this command
 
