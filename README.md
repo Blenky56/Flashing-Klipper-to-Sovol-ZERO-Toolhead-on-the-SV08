@@ -95,6 +95,9 @@ ___
 ![Toolhead](./images/toolhead.png)
 
 11)  Once both MCUs are flashed you can select option 4 and exit.  Klipper will restart and you can confirm that the MCUs are running the latest Klipper.
+   Klipper will show as dirty if you are runningg Eddy NG.
+
+![system](./images/system.png)
 
 #
 # HAPPY PRINTING!!
