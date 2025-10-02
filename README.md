@@ -12,7 +12,7 @@ The revised script will give you these options.
 3. **FLASH TOOLHEAD**
 4. **QUIT**
 
-This script you a simple and easy way to update klipper on all your devices, if you choose to do so.
+This script gives you a simple and easy way to update klipper on all your devices, if you choose to do so.
 
 ---
 
@@ -26,13 +26,8 @@ Read [Step 7 - Flash Katapult Bootloader]( https://github.com/Rappetor/Sovol-SV0
 ___
 ## Steps to follow
 
-1) SSH into your printer and enter the git for the script file below.
-    * It will install in your biqu directory.
+1) Downloadd the script file from the repository above and place it in your biqu directory.
 
-```bash
-cd
-git pull <https://github.com/Blenky56/Flashing-Klipper-to-Sovol-ZERO-Toolhead-on-the-SV08/blob/main/Script/update_klipper_mcus_sv08_ZERO_TH.sh>
-```
 2) You will need to edit this file to change the HOST MCU serial number and toolhead UUID to match yours. 
     * Use WinSCP or a ftp file editor of your choice.
     * Note that it requires both the Stock UUID and the Actual UUID.
@@ -67,7 +62,7 @@ cd
 ls
 ```
 
-6) Run the MCU Update script as shown below
+6) Run the MCU Update script as shown below.
 
 ```bash
 cd 
