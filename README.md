@@ -46,7 +46,7 @@ ___
 ls
 ```
 
-![File List](images/chmod.PNG)
+![File List](./images/chmod.PNG)
 
 5) If it appears in white run this command
 
@@ -75,7 +75,7 @@ cd
 
 8) Select 1 to update Klipper first then follow in the numerical order.
     * Klipper will stop and then update.
-    * If you run Eddy NG it will uninstall EDDY NG, Update Kliper and Reinstall EDDY NG.
+    * If you run Eddy NG it will uninstall EDDY NG, Update Klipper and Reinstall EDDY NG.
         * If you run Shake & Tune you can re-install it with this command.
 ```bash
 cd
