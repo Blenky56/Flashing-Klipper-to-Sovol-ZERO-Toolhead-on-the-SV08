@@ -46,7 +46,7 @@ ___
 ls
 ```
 
-![File List](./images/chmod.PNG)
+![File List](./images/chmod.png)
 
 5) If it appears in white run this command
 
