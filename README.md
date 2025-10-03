@@ -26,7 +26,7 @@ Read [Step 7 - Flash Katapult Bootloader]( https://github.com/Rappetor/Sovol-SV0
 ___
 ## Steps to follow
 
-1) Downloadd the script file from the repository above and place it in your biqu directory.
+1) Downloadd the script file from the repository above and place it in your ./klipper/scripts directory.
 
 2) You will need to edit this file to change the HOST MCU serial number and toolhead UUID to match yours. 
     * Use WinSCP or a ftp file editor of your choice.
