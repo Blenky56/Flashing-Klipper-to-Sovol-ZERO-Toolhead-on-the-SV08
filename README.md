@@ -64,7 +64,7 @@ ls
 6) Run the MCU Update script as shown below.
 
 ```bash
-cd 
+cd ./klipper/scripts
 ./update_klipper_mcus_sv08_ZERO_TH.sh
 ```
 
