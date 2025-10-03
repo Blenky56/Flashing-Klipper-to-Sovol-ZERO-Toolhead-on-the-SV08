@@ -76,7 +76,7 @@ cd
 8) Select 1 to update Klipper first then follow in the numerical order.
     * Klipper will stop and then update.
     * If you run Eddy NG it will uninstall EDDY NG, Update Klipper and Reinstall EDDY NG.
-        * If you run Shake & Tune you can re-install it with this command.
+        * If you run Shake & Tune you can re-install it with this command after you complete the updates.
 ```bash
 cd
 wget -O - https://raw.githubusercontent.com/Frix-x/klippain-shaketune/main/install.sh | bash
