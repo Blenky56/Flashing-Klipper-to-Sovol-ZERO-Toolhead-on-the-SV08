@@ -43,7 +43,7 @@ ___
 
 
 ```bash
-cd /klipper/scripts
+cd ./klipper/scripts
 ls
 ```
 
