@@ -37,28 +37,27 @@ ___
     * If you are running EDDY NG then leave them uncommented.
     * Using WinSP save the file to the BIQU directory.
 
-3)  SSH into your printer to the BIQU directory.
+3)  SSH into your printer.
 
-4) Enter the command ls to confirm the file is there.  It should look like this in green.
+4) Enter the command below to confirm the file is there.  It should look like this in green.
 
 
 ```bash
+cd /klipper/scripts
 ls
 ```
 
-![File List](./images/chmod.png)
+![File List](./images/script.jpg)
 
 5) If it appears in white run this command
 
 ```bash
-cd
 sudo chmod 777 ./update_klipper_mcus_sv08_ZERO_TH.sh
 ```
 
 Run ls again to confirm it turned green and is now executable.
 
 ```bash
-cd
 ls
 ```
 
