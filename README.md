@@ -111,7 +111,7 @@ ___
 A huge thank you to Chris Bercaw and More HP for helping me to get the ZERO Toolhead running on my SV08.
 
 You can find the guide to set up the ZERO on the SV08 here : 
-<a href="https://github.com/bearclaw92/Zero_Toolhead_Guide" target="_parent">ZERO to SV08 Guide</a>
+<a href="https://github.com/bearclaw92/Zero_Toolhead_Guide" target="_top">ZERO to SV08 Guide</a>
 
 ## Disclaimer!!  (*copied from Rappetor's "Sovol-SV08-Mainline" guide*)
 This guide and all changes have been made with the best intentions but in the end, it's your responsibility and only your responsibility to apply those changes and modifications to your printer. Neither the author, contributors nor Sovol is responsible if things go bad, break, catch fire, or start WW3. You do this at your own risk!
